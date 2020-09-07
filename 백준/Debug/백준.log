@@ -1,0 +1,4 @@
+﻿  9. 10799.cpp
+C:\Users\이현수\Desktop\백준\백준\9. 10799.cpp(19,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이현수\Desktop\백준\백준\9. 10799.cpp(30,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이현수\Desktop\백준\백준\9. 10799.cpp(35,4): error C2059: 구문 오류: '}'
